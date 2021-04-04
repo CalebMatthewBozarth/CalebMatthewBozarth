@@ -11,7 +11,7 @@
 
 - 🔗 My most recent project was a Church Member Management System for a local church in Edmond. Here is the [link](https://github.com/tylerdavidjoy/SEV-Project-Vue) to the repository
 
-![Caleb's github stats](https://github-readme-stats.vercel.app/api?username=CalebMatthewBozarth)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalebMatthewBozarth)](https://github.com/CalebMatthewBozarth/github-readme-stats)
 
 <!---
 CalebMatthewBozarth/CalebMatthewBozarth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
