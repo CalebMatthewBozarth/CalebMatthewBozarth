@@ -1,3 +1,5 @@
+# Hello fellow coders! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 - 👋 Hi, I’m Caleb Bozarth, a Senior level college student at Oklahoma Christian University pursuing my degree in Computer Science.
 - 👀 I’m particularly interested in Web and Mobile application development, but also anything in the broader field of Software Engineering.
 - 🌱 I’m currently learning the Vue.js JavaScript framework, specifically in the domain of Web applications.
