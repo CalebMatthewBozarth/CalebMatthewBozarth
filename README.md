@@ -5,7 +5,10 @@
 - 🌱 I’m currently learning the Vue.js JavaScript framework, specifically in the domain of Web applications.
 - 💞️ I’m looking to collaborate with a team of developers to build my real world skill with development and production of real world products.
 - 📫 Find me on [![LinkedIn][2.2]][2].
+- Link to instagram [![Instagram][1.2]][1]
 
+[1.2]: https://i.pinimg.com/originals/72/a3/d9/72a3d9408d41335f39e9f014dc35cf44.jpg
+[1]: https://instagram.com
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 [2]: https://www.linkedin.com/in/caleb-bozarth
 
