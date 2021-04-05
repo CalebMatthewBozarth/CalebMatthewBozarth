@@ -7,7 +7,7 @@
 - 📫 Find me on [![LinkedIn][2.2]][2].
 - Link to instagram [![Instagram][1.2]][1]
 
-[1.2]: https://i.pinimg.com/originals/72/a3/d9/72a3d9408d41335f39e9f014dc35cf44.jpg
+[1.2]: https://www.iconfinder.com/icons/1298747/instagram_brand_logo_social_media_icon
 [1]: https://instagram.com
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 [2]: https://www.linkedin.com/in/caleb-bozarth
